@@ -1,0 +1,3 @@
+.tbody-register > tr:nth-child(1) {
+    cursor: pointer;
+}
